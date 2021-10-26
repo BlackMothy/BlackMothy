@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlackMothy
 - 👀 I’m interested in creating.
-- 🌱 I’m currently learning Android & Kotlin.
-- 💞️ I’m looking to collaborate on useful Android app.
+- 🌱 I’m currently learning web-development.
+- 💞️ I’m looking to collaborate on simple web-pages.
 - 📫 How to reach me by e-mail blackmothy@yandex.ru
 
 <!---
